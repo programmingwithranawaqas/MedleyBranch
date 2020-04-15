@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MedleyBranch</string>
+    <string name="branchNo">Branch #. 1</string>
+    <string name="branchAddress">Khyaban-e-Jinah</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

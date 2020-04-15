@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bill_Main"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/btnNewBill"
+        android:layout_width="match_parent"
+        android:layout_height="123dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="20dp"
+        android:text="NEW BILL"
+        android:textSize="25sp"
+        app:cornerRadius="100dp" />
+
+    <Button
+        android:id="@+id/btnPendingBill"
+        android:layout_width="match_parent"
+        android:layout_height="123dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="20dp"
+        android:text="PENDING BILLS"
+        android:textSize="25sp"
+        app:cornerRadius="100dp" />
+
+</LinearLayout>

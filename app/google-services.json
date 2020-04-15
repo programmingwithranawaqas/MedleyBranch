@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904532574685",
+    "firebase_url": "https://medleybranch.firebaseio.com",
+    "project_id": "medleybranch",
+    "storage_bucket": "medleybranch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904532574685:android:34d1158a3986abbbc7f634",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.medleybranch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904532574685-m7f72udoj46qd2klgl77honbv225r24o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.medleybranch",
+            "certificate_hash": "e7244e38364b00c14edaab973a3dad7487be8365"
+          }
+        },
+        {
+          "client_id": "904532574685-9vn6nc1bagiaa2h81q6ups1murflp5gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeaA1HR84tLQJ0BmQ96F24J92CCVB10Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904532574685-9vn6nc1bagiaa2h81q6ups1murflp5gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
